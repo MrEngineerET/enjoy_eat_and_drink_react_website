@@ -1,5 +1,5 @@
 function App() {
-  return <div>Initial Configration</div>;
+  return <div> Initial Configration</div>
 }
 
-export default App;
+export default App
