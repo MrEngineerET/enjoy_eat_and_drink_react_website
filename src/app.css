@@ -1,0 +1,20 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.menubar {
+  background-color: antiquewhite;
+  height: 3rem;
+}
+
+.venue {
+  display: flex;
+  gap: 2rem;
+}
+
+.sidebar {
+  background-color: aqua;
+  height: 100%;
+}
